@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bVPZG7/S2+4gJ6NyVTtNJ6waqswOtvRw42mRjQCn7DSSo5o+IQGwDIG9PCcJycHh+64kBYJ7FFxqDDM8F+Dykw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tayya\\source\\repos\\Hangfire_scheduleJob_Practice\\Hangfire_scheduleJob_Practice\\Hangfire_scheduleJob_Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tayya\\.nuget\\packages\\hangfire.aspnetcore\\1.7.13\\hangfire.aspnetcore.1.7.13.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\hangfire.core\\1.7.13\\hangfire.core.1.7.13.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\hangfire.memorystorage\\1.7.0\\hangfire.memorystorage.1.7.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
